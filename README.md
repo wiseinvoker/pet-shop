@@ -1,4 +1,4 @@
-# Pet shop Dapp
+# Election Dapp
 
 ## Compile
 ```
